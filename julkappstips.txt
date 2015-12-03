@@ -1,4 +1,4 @@
 tips:
 
 fisk
-stumpor
+robotdammsugare
