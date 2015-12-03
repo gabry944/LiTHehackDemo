@@ -2,3 +2,4 @@ tips:
 
 fisk
 gröt
+robotdammsugare
